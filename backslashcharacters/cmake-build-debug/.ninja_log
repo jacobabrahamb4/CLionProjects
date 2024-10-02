@@ -1,0 +1,11 @@
+# ninja log v5
+1	94	7299730113876275	CMakeFiles/backslashcharacters.dir/main.c.obj	6b14cc922497d026
+95	214	7299730115033498	backslashcharacters.exe	24ae748455f69d27
+3	80	7299732691107823	CMakeFiles/backslashcharacters.dir/main.c.obj	6b14cc922497d026
+80	164	7299732691905627	backslashcharacters.exe	24ae748455f69d27
+2	70	7299735173730211	CMakeFiles/backslashcharacters.dir/main.c.obj	6b14cc922497d026
+70	151	7299735174506543	backslashcharacters.exe	24ae748455f69d27
+2	228	7299742830039887	CMakeFiles/backslashcharacters.dir/main.c.obj	6b14cc922497d026
+228	458	7299742832298713	backslashcharacters.exe	24ae748455f69d27
+1	68	7299743197088379	CMakeFiles/backslashcharacters.dir/main.c.obj	6b14cc922497d026
+69	142	7299743197779070	backslashcharacters.exe	24ae748455f69d27

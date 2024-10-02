@@ -1,0 +1,9 @@
+# ninja log v5
+0	72	7298943759430179	CMakeFiles/countoccurances.dir/main.c.obj	d8dee249117fdbdf
+73	139	7298943760096498	countoccurances.exe	9f1c6d96d71cab78
+2	57	7298944186130055	CMakeFiles/countoccurances.dir/main.c.obj	d8dee249117fdbdf
+57	108	7298944186615193	countoccurances.exe	9f1c6d96d71cab78
+2	63	7298945456621298	CMakeFiles/countoccurances.dir/main.c.obj	d8dee249117fdbdf
+63	120	7298945457160391	countoccurances.exe	9f1c6d96d71cab78
+2	67	7298946371957292	CMakeFiles/countoccurances.dir/main.c.obj	d8dee249117fdbdf
+67	121	7298946372642104	countoccurances.exe	9f1c6d96d71cab78

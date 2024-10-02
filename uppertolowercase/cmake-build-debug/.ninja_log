@@ -1,0 +1,5 @@
+# ninja log v5
+1	103	7299816257340465	CMakeFiles/uppertolowercase.dir/main.c.obj	b234c89775ca6a56
+105	195	7299816258218786	uppertolowercase.exe	57aab48cd2cbbec2
+2	74	7299820381631882	CMakeFiles/uppertolowercase.dir/main.c.obj	b234c89775ca6a56
+74	159	7299820382442074	uppertolowercase.exe	57aab48cd2cbbec2

@@ -1,0 +1,3 @@
+C:/Users/Jacob Abraham/CLionProjects/celsiustofahrreverse/cmake-build-debug/CMakeFiles/celsiustofahrreverse.dir
+C:/Users/Jacob Abraham/CLionProjects/celsiustofahrreverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jacob Abraham/CLionProjects/celsiustofahrreverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

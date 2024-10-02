@@ -1,0 +1,9 @@
+# ninja log v5
+1	80	7299540218465076	CMakeFiles/printlongestline.dir/main.c.obj	87173141d0e9eb9e
+82	165	7299540219271353	printlongestline.exe	28f4ef474423774c
+1	63	7299540833202569	CMakeFiles/printlongestline.dir/main.c.obj	87173141d0e9eb9e
+63	133	7299540833861658	printlongestline.exe	28f4ef474423774c
+1	61	7299541640386747	CMakeFiles/printlongestline.dir/main.c.obj	87173141d0e9eb9e
+62	142	7299541641141785	printlongestline.exe	28f4ef474423774c
+2	64	7299543959190683	CMakeFiles/printlongestline.dir/main.c.obj	87173141d0e9eb9e
+64	134	7299543959855786	printlongestline.exe	28f4ef474423774c

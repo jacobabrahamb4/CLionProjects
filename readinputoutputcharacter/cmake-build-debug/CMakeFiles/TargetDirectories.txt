@@ -1,0 +1,3 @@
+C:/Users/Jacob Abraham/CLionProjects/readinputoutputcharacter/cmake-build-debug/CMakeFiles/readinputoutputcharacter.dir
+C:/Users/Jacob Abraham/CLionProjects/readinputoutputcharacter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jacob Abraham/CLionProjects/readinputoutputcharacter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

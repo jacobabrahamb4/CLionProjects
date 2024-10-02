@@ -1,0 +1,19 @@
+# ninja log v5
+0	72	7299553318263728	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+73	145	7299553318963775	reversestring.exe	18654465c56ac00c
+2	65	7299555147561145	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+65	158	7299555148430643	reversestring.exe	18654465c56ac00c
+1	65	7299556040100094	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+66	141	7299556040814601	reversestring.exe	18654465c56ac00c
+2	62	7299556907170265	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+62	135	7299556907866588	reversestring.exe	18654465c56ac00c
+2	60	7299558970797421	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+61	129	7299558971449712	reversestring.exe	18654465c56ac00c
+2	67	7299559639236606	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+67	137	7299559639910021	reversestring.exe	18654465c56ac00c
+2	62	7299559739316351	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+62	134	7299559739999836	reversestring.exe	18654465c56ac00c
+2	71	7299560327519054	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+72	140	7299560328171367	reversestring.exe	18654465c56ac00c
+1	61	7299563656038234	CMakeFiles/reversestring.dir/main.c.obj	c30ee5287252c160
+61	132	7299563656710817	reversestring.exe	18654465c56ac00c

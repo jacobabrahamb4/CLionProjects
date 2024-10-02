@@ -1,0 +1,15 @@
+# ninja log v5
+0	201	7298674888041362	CMakeFiles/celsiustofahr.dir/main.c.obj	5b28ea52595414f
+202	402	7298674890015403	celsiustofahr.exe	6e11cd3b188cf4c7
+2	175	7298711013985249	CMakeFiles/celsiustofahr.dir/main.c.obj	5b28ea52595414f
+175	372	7298711015913363	celsiustofahr.exe	6e11cd3b188cf4c7
+2	76	7298711248853908	CMakeFiles/celsiustofahr.dir/main.c.obj	5b28ea52595414f
+76	153	7298711249595064	celsiustofahr.exe	6e11cd3b188cf4c7
+2	76	7298711314384103	CMakeFiles/celsiustofahr.dir/main.c.obj	5b28ea52595414f
+76	149	7298711315083233	celsiustofahr.exe	6e11cd3b188cf4c7
+1	67	7298711425347305	CMakeFiles/celsiustofahr.dir/main.c.obj	5b28ea52595414f
+80	154	7298711426183200	celsiustofahr.exe	6e11cd3b188cf4c7
+1	64	7298711798280175	CMakeFiles/celsiustofahr.dir/main.c.obj	5b28ea52595414f
+64	135	7298711798946787	celsiustofahr.exe	6e11cd3b188cf4c7
+2	70	7298712028076814	CMakeFiles/celsiustofahr.dir/main.c.obj	5b28ea52595414f
+70	150	7298712028831440	celsiustofahr.exe	6e11cd3b188cf4c7

@@ -1,0 +1,23 @@
+# ninja log v5
+0	71	7298763307249082	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+83	159	7298763308107646	printinputcharacters.exe	b0f4eed3bc8aa189
+1	73	7298764410454395	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+73	161	7298764411295236	printinputcharacters.exe	b0f4eed3bc8aa189
+1	62	7298764648112093	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+63	136	7298764648810055	printinputcharacters.exe	b0f4eed3bc8aa189
+2	78	7298765769657768	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+79	163	7298765770456581	printinputcharacters.exe	b0f4eed3bc8aa189
+1	64	7298767153634113	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+64	138	7298767154334632	printinputcharacters.exe	b0f4eed3bc8aa189
+2	62	7298768339186188	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+62	134	7298768339872362	printinputcharacters.exe	b0f4eed3bc8aa189
+1	189	7298774308093929	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+189	309	7298774309253199	printinputcharacters.exe	b0f4eed3bc8aa189
+2	73	7298775857474092	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+74	160	7298775858295522	printinputcharacters.exe	b0f4eed3bc8aa189
+1	65	7298778000192319	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+65	140	7298778000915600	printinputcharacters.exe	b0f4eed3bc8aa189
+1	68	7298779214703193	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+68	145	7298779215436198	printinputcharacters.exe	b0f4eed3bc8aa189
+2	67	7298786720962497	CMakeFiles/printinputcharacters.dir/main.c.obj	1935b8a24a8ebb09
+68	142	7298786721662622	printinputcharacters.exe	b0f4eed3bc8aa189

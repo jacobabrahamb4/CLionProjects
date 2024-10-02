@@ -1,0 +1,7 @@
+# ninja log v5
+0	201	7298903550840057	CMakeFiles/printwords.dir/main.c.obj	11b4df94631f436e
+201	381	7298903552604470	printwords.exe	59a66e5958d0d39f
+2	62	7298904291800449	CMakeFiles/printwords.dir/main.c.obj	11b4df94631f436e
+63	135	7298904292480106	printwords.exe	59a66e5958d0d39f
+2	70	7298904946659236	CMakeFiles/printwords.dir/main.c.obj	11b4df94631f436e
+71	153	7298904947447093	printwords.exe	59a66e5958d0d39f

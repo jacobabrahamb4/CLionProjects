@@ -1,0 +1,9 @@
+# ninja log v5
+0	101	7298888033029636	CMakeFiles/countnumberofwords.dir/main.c.obj	695291982025fe1d
+102	194	7298888033904027	countnumberofwords.exe	f003569b0e7c1340
+1	64	7298888721968423	CMakeFiles/countnumberofwords.dir/main.c.obj	695291982025fe1d
+65	137	7298888722656821	countnumberofwords.exe	f003569b0e7c1340
+1	71	7298891057771523	CMakeFiles/countnumberofwords.dir/main.c.obj	695291982025fe1d
+71	156	7298891058576112	countnumberofwords.exe	f003569b0e7c1340
+2	64	7298891189112836	CMakeFiles/countnumberofwords.dir/main.c.obj	695291982025fe1d
+64	138	7298891189825490	countnumberofwords.exe	f003569b0e7c1340
